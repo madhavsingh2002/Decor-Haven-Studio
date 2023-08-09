@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d3b0216.css",
+    "main.js": "/static/js/main.5f805c2e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/page404g.gif": "/static/media/page404g.bf5ca37a927ae939bcc8.gif",
+    "static/media/AboutImg.png": "/static/media/AboutImg.203ea00657ba34e5ff2d.png",
+    "static/media/faq.png": "/static/media/faq.d0a359654d6e0af45050.png",
+    "static/media/Logo.png": "/static/media/Logo.1ffb1a2d7702d0ac7349.png",
+    "static/media/banner6.jpg": "/static/media/banner6.af40f72d9027113cff34.jpg",
+    "static/media/banner4.jpg": "/static/media/banner4.048176aa502e5e0797d0.jpg",
+    "static/media/banner5.jpg": "/static/media/banner5.01944a08c7022ca2968c.jpg",
+    "static/media/contactImg.png": "/static/media/contactImg.5d0f7de1ed9b6159f78c.png",
+    "static/media/homebanner2.jpg": "/static/media/homebanner2.93ae2b842cd25556ebd7.jpg",
+    "static/media/banner1.jpeg": "/static/media/banner1.d7102f90ffecfc73141c.jpeg",
+    "static/media/Login.webp": "/static/media/Login.afa2474bf99db1965008.webp",
+    "static/media/signup.avif": "/static/media/signup.afd4bc962452daec1e28.avif",
+    "index.html": "/index.html",
+    "static/media/instagram.svg": "/static/media/instagram.116ad97e1f8e0638fcb7d5aed6800697.svg",
+    "static/media/twitter.svg": "/static/media/twitter.0407223bb7bca83e1349f743cc8849a2.svg",
+    "static/media/linkedin-in.svg": "/static/media/linkedin-in.42f56d2e4ae6f93ca987e172233e3da8.svg",
+    "static/media/facebook.svg": "/static/media/facebook.d0e6c35f87cabc4c3d016b72ba214d1f.svg",
+    "main.7d3b0216.css.map": "/static/css/main.7d3b0216.css.map",
+    "main.5f805c2e.js.map": "/static/js/main.5f805c2e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d3b0216.css",
+    "static/js/main.5f805c2e.js"
+  ]
+}
