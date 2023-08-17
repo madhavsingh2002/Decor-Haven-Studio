@@ -5,8 +5,8 @@ Welcome to Decor Haven Studio! Our team is proud to present a captivating e-comm
 
 Harnessing the power of React and Node.js, we've sculpted a comprehensive e-commerce application that effortlessly merges form and function. Seamlessly navigating through our pages, you'll encounter an array of features designed to enhance your shopping journey.
 
-Product aficionados will relish in our meticulously designed product listing, an exquisite showcase of our curated collection. With a seamless image upload process and intricate styling, every detail has been meticulously crafted to perfection.
-
+Product aficionados will relish in our meticulously designed product listing, an exquisite showcase of our curated collection. With a seamless image upload process and intricate styling, every detail has been meticulously crafted to perfection....
+...
 Our devotion to seamless user experience is palpable through our fluid page routing and Bootstrap UI integration. Witness the harmony between technology and aesthetics as you delve into our polished user interface.
 
 Allow us to introduce our finely tuned components, sculpted to perfection – from the captivating product display to the insightful product rating system. Feast your eyes on our elegantly designed product details screen, where images and action buttons converge to create a symphony of visual delight.
