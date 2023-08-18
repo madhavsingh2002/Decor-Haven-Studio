@@ -11,7 +11,7 @@ Our devotion to seamless user experience is palpable through our fluid page rout
 
 Allow us to introduce our finely tuned components, sculpted to perfection – from the captivating product display to the insightful product rating system. Feast your eyes on our elegantly designed product details screen, where images and action buttons converge to create a symphony of visual delight.
 
-Navigating through our site, you'll find comfort in our thoughtfully implemented loading and error message components, ensuring a smooth and frustration-free interaction.
+Navigating through our site, you'll find comfort in our thoughtfully implemented loading and error message components, ensuring a smooth and frustration-free interactin.
 
 Delve deeper into the shopping realm as you encounter our cart screen, empowered by the prowess of React context. Witness the magic as items seamlessly glide into your cart, while behind the scenes, a MongoDB database seamlessly orchestrates the dance.
 
